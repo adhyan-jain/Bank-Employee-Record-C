@@ -1,7 +1,3 @@
-The README you've provided looks great! It's clear, concise, and well-organized. Here's a slightly refined version, ensuring readability and clarity while keeping all the essential details intact:
-
----
-
 # Bank Employee Record Management System
 
 A simple C program for managing bank employee records. This system allows users to add, view, search, and delete employee data, with file handling to store records in a text file, offering persistent storage.
